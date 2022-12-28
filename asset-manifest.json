@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ankit_cv/static/css/main.1644524e.css",
+    "main.js": "/ankit_cv/static/js/main.a702eaa6.js",
+    "static/media/myface.jpeg": "/ankit_cv/static/media/myface.79298bcb73d2e653e1fa.jpeg",
+    "static/media/ankit_kumar_resume.pdf": "/ankit_cv/static/media/ankit_kumar_resume.24b496a0c294b587f52c.pdf",
+    "index.html": "/ankit_cv/index.html",
+    "main.1644524e.css.map": "/ankit_cv/static/css/main.1644524e.css.map",
+    "main.a702eaa6.js.map": "/ankit_cv/static/js/main.a702eaa6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1644524e.css",
+    "static/js/main.a702eaa6.js"
+  ]
+}
